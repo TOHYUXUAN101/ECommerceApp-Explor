@@ -22,7 +22,7 @@ image, description.
 6. Develop a feature that allows users to add products to their shopping cart, view their cart(Without
 checkout function).
 
-LOGIN UI:
+LOGIN UI:<br/>
 ![image](https://github.com/lookerOn/RedSquareFrontEndTestQ2/assets/128567524/70713ab9-d4de-45a8-b7a1-5f3b0435b49d)
 
 HOMEPAGE UI:
