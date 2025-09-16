@@ -44,7 +44,7 @@ checkout function).<br/><br/>
 **View Item Details AND Add Item to Cart UI:**<br/>
 ![image](https://github.com/lookerOn/RedSquareFrontEndTestQ2/assets/128567524/148767ec-9c46-46a6-bbb2-b67b4a192da6)
 
-View Cart UI:
+**View Cart UI:**<br/>
 ![image](https://github.com/lookerOn/RedSquareFrontEndTestQ2/assets/128567524/c8ac2d8f-a545-4189-a5e4-ef584ec11144)
 
 
